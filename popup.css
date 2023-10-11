@@ -1,0 +1,14 @@
+/* Styles for the popup */
+body {
+  width: 200px;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#status-message {
+  color: crimson;
+  text-align: center;
+}
